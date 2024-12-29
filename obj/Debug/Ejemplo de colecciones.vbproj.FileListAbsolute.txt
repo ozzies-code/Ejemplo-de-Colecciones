@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo_de_colecciones.frmEjemploColecciones.resources
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo_de_colecciones.Resources.resources
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Ejemplo de colecciones\bin\Debug\Ejemplo de colecciones.exe.config
+C:\Users\oswal\source\repos\Ejemplo de colecciones\bin\Debug\Ejemplo de colecciones.exe
+C:\Users\oswal\source\repos\Ejemplo de colecciones\bin\Debug\Ejemplo de colecciones.pdb
+C:\Users\oswal\source\repos\Ejemplo de colecciones\bin\Debug\Ejemplo de colecciones.xml
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.exe
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.xml
+C:\Users\oswal\source\repos\Ejemplo de colecciones\obj\Debug\Ejemplo de colecciones.pdb
